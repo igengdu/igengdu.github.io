@@ -1,2 +1,1 @@
-### igengdu.github.io
-### https://igengdu.com
+https://igengdu.com
